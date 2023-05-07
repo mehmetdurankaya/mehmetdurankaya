@@ -1,4 +1,4 @@
-![profilresmi-removebg-preview](https://user-images.githubusercontent.com/44356848/236704572-fbefa582-1a1a-4756-b6f4-b19508b6e20c.png)
+![mdk_resim-removebg-preview](https://user-images.githubusercontent.com/44356848/236705053-f222c1ff-0a31-4e30-aa3e-627398a21826.png)
 ### Hi there 👋
 
 
