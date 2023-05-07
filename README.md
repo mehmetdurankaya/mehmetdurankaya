@@ -1,6 +1,3 @@
-
-![profilresmi](https://user-images.githubusercontent.com/44356848/236692099-946f5fe0-5fce-4d48-94bd-3ae0cc941181.jpg)
-
 ### Hi there 👋
 
 
