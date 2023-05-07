@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
-- ⚡ :                      ...     Kickboks - Karate - Yakın Savnması  
+- ⚡ I’m an instructor      ...     Kickboks - Karate - Yakın Savnması  
 
 
 ### Connect with me:
