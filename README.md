@@ -1,5 +1,6 @@
 
-![profile-pic (1)](https://user-images.githubusercontent.com/44356848/236733306-a3710887-8e5a-48d3-ac1f-898a4036f8e5.png)
+![3](https://user-images.githubusercontent.com/44356848/236733521-1ebc3d49-e6df-4239-a7d6-c068ed45b934.png)
+
 
 
 ### Hi there 👋
