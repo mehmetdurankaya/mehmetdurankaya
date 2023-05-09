@@ -4,12 +4,6 @@
 
 
 ### Hi there 👋
-
-
-<!--**mehmetdurankaya/mehmetdurankaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img src="gorsel-link" width="auto"> -->
-
-
-
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
 - ⚡ I’m an instructor      ...     Kickboks - Karate -Close Defance  
