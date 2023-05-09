@@ -1,8 +1,3 @@
-
-![3](https://user-images.githubusercontent.com/44356848/236733521-1ebc3d49-e6df-4239-a7d6-c068ed45b934.png)
-
-
-
 ### Hi there 👋
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
