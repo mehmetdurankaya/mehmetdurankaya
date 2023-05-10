@@ -38,8 +38,8 @@
 <br />
 <br />
 
----
 ###
+
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetdurankaya" alt="mehmetdurankaya" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdurankaya&show_icons=true&locale=en&layout=compact" alt="mehmetdurankaya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdurankaya&show_icons=true&locale=en" alt="mehmetdurankaya" width="50%" /></p><br /><br />
