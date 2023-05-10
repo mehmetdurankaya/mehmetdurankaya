@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/mehmetdurankaya/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mehmetdurankaya/count.svg?"/>
 </div>
 
 ###
