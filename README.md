@@ -29,7 +29,7 @@
 ### 📺 My Youtube Videos
 
 <!-- YOUTUBE:START -->
-<div align="center">
+<div align="left">
 - [Kartal'ın yeniden doğuşu](https://www.youtube.com/watch?v=8G6w-x-WqAM)
 - [Konsantrasyon ve Kararlılık](https://www.youtube.com/watch?v=t_p6djMEzCA)
 - [🛑 Stop No pain no gain](https://www.youtube.com/watch?v=Rk3ZinyVwzk)
@@ -40,14 +40,14 @@
 <br />
 </div>
 ---
-<div align="center">
+<div align="left">
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetdurankaya" alt="mehmetdurankaya" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdurankaya&show_icons=true&locale=en&layout=compact" alt="mehmetdurankaya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdurankaya&show_icons=true&locale=en" alt="mehmetdurankaya" width="50%" /></p>
 <br />
 <br />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berktugates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=berktugates&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=berktugates&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
