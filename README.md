@@ -21,8 +21,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<br /><br />
 </div>
 
 
@@ -43,9 +42,7 @@
 
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetdurankaya" alt="mehmetdurankaya" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdurankaya&show_icons=true&locale=en&layout=compact" alt="mehmetdurankaya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdurankaya&show_icons=true&locale=en" alt="mehmetdurankaya" width="50%" /></p>
-<br />
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdurankaya&show_icons=true&locale=en" alt="mehmetdurankaya" width="50%" /></p><br /><br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetdurankaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
