@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
-- ⚡ I’m an instructor      ...     Kickboks - Karate -Close Defance  
+- ⚡ I’m an instructor      ...     Kickboks - Karate -Close Defence  
 - &#129354;  I'm happy when I do ... Combat sports and Coding
 
 ### Connect with me:
