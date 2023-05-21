@@ -48,7 +48,7 @@
 <br />
 
 ---
-
+<div align="ceter">
   <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetdurankaya&theme=dracula" alt="mehmetdurankaya" /></a></p>
   
  
