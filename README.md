@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="270" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
 
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
