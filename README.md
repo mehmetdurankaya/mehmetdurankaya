@@ -48,7 +48,8 @@
 <!-- YOUTUBE:END -->
 <br />
 <br />
-
+###
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+MERN,+Shopify,+PHP,+Python;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
 ---
 <div align="center">
   <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetdurankaya&theme=dracula" alt="mehmetdurankaya" /></a></p>  
