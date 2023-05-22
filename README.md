@@ -60,6 +60,3 @@
   <img src="https://profile-counter.glitch.me/mehmetdurankaya/count.svg?"  />
 </div>
 
-
-
-
