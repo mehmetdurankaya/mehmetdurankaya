@@ -39,7 +39,7 @@
 ### 📺 My Youtube Videos
 <div id="container">
 <!-- YOUTUBE:START -->
-<div align="center">
+<div align="left">
 - [Kartal'ın yeniden doğuşu](https://www.youtube.com/watch?v=8G6w-x-WqAM)
 - [Konsantrasyon ve Kararlılık](https://www.youtube.com/watch?v=t_p6djMEzCA)
 - [🛑 Stop No pain no gain](https://www.youtube.com/watch?v=Rk3ZinyVwzk)
@@ -47,9 +47,10 @@
 - [Keep Your Packages Up-To-Date with this VS Code Extension]()
   <!-- YOUTUBE:END -->
   </div>
+  
+  </div>
   <div align="right">
     <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+Mehmet+Duran+Kaya;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
-  </div>
   </div>
 <br />
 <br />
