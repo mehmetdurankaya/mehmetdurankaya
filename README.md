@@ -62,7 +62,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/mehmetdurankaya/count.svg?"  />
 </div>
 
