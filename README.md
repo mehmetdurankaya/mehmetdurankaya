@@ -38,7 +38,7 @@
 
 ### 📺 My Youtube Videos
 <!-- YOUTUBE:START -->
-<div align="left">
+<div align="center">
 - [Kartal'ın yeniden doğuşu](https://www.youtube.com/watch?v=8G6w-x-WqAM)
 - [Konsantrasyon ve Kararlılık](https://www.youtube.com/watch?v=t_p6djMEzCA)
 - [🛑 Stop No pain no gain](https://www.youtube.com/watch?v=Rk3ZinyVwzk)
