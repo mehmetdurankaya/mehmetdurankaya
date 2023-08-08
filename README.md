@@ -1,12 +1,16 @@
    <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+Mehmet+Duran+Kaya;&center=true&vCenter=true&pause=200&width=800&height=20" width="100%" /> 
  
 # Hi there 👋
-<img align="right" alt="GIF" src="(https://github.com/mehmetdurankaya/mehmetdurankaya)/blob/master/code.gif?raw=true" width="450" height="250" />
+<div align="right">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="250"/>
+</div>
 
 - 🔭 I’m currently working on ...   I'm writing the algorithm's right now
 - 🌱 I’m currently learning ...     Java-Vuejs-Electronjs-istatistic
 - ⚡ I’m an instructor      ...     Kickboks - Karate -Close Defence  
 - &#129354;  I'm happy when I do ... Combat sports and Coding
+
+
 
 
 ### Connect with me:
