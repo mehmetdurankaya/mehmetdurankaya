@@ -50,7 +50,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com)
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="GoLang" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"/>  
 <br /><br />
