@@ -45,7 +45,6 @@
 <code><img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef209b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
 <code><img align="left" alt="SQL" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 <code><img align="left" alt="MongoDB" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
-   <br/><br/>
 <code><img align="left" alt="Bootstrap" height="20px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" /></code>
 <code><img align="left" alt="GoLang" height="20px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"/> </code> 
 <br /><br />
